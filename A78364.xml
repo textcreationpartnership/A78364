@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonell VVeldens taking of Inch-House neere Plimouth: foure piece of ordnance taken there, with the number of the armes, and all their bag and baggage. Together with the articles of conditions, and a list of the names of the chiefe of the lords, knights, and colonels of the Princes army disbanded in the west, and to what places they are severally dispersed. Also Sir Thomas Fairfaxes advance against Exeter and Barnsable [sic] to take them in for the Parliament. Printed by the originall papers, and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78364</idno>
+            <idno type="STC">Wing C148</idno>
+            <idno type="STC">Thomason E330_5</idno>
+            <idno type="STC">ESTC R200710</idno>
+            <idno type="EEBO-CITATION">99861380</idno>
+            <idno type="PROQUEST">99861380</idno>
+            <idno type="VID">159621</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159621)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E330[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonell VVeldens taking of Inch-House neere Plimouth: foure piece of ordnance taken there, with the number of the armes, and all their bag and baggage. Together with the articles of conditions, and a list of the names of the chiefe of the lords, knights, and colonels of the Princes army disbanded in the west, and to what places they are severally dispersed. Also Sir Thomas Fairfaxes advance against Exeter and Barnsable [sic] to take them in for the Parliament. Printed by the originall papers, and published according to order of Parliament.</title>
+                  <author>W. C.</author>
+                  <author>England and Wales. Parliament. aut</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Matthew Walbancke,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>30 March, 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing enters this under W.C., who has signed the first letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Plymouth (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159621:1" rendition="simple:additions"/>
+            <p>Colonell VVELDENS Taking of Inch-Houſe Neere PLIMOUTH: Foure piece of Ordnance taken there, with the number of the Armes, and all their Bag and Baggage.</p>
+            <p>Together with the Articles of Conditions, and a Liſt of the Names of the chiefe of the Lords, Knights, and Colonels of the Princes Army diſ<g ref="char:EOLhyphen"/>banded in the Weſt, and to what places they are ſeverally diſperſed.</p>
+            <p>Alſo Sir <hi>Thomas Fairfaxes</hi> advance againſt EXETER and BARNSABLE to take them in for the Parliament.</p>
+            <p>Printed by the Originall Papers, and publi<g ref="char:EOLhyphen"/>ſhed according to Order of Parliament.</p>
+            <p>LONDON, Printed for <hi>Matthew Walbancke,</hi> 30 March, 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159621:2"/>
+            <pb n="1" facs="tcp:159621:2"/>
+            <head>A Copy of a Letter from the Gene<g ref="char:EOLhyphen"/>ralls Quarters.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe opportunity of ſending by this Bea<g ref="char:EOLhyphen"/>rer moved me to write a word or two unto you: Inch-Houſe, neere Plimouth, was laſt week ſurrendred to Colonell <hi>Wel<g ref="char:EOLhyphen"/>den</hi> with foure Minion Guns, 90 Muskets, and all their Bag and Baggage taken therein; thoſe in it to goe to their own homes. Sater<g ref="char:EOLhyphen"/>day we marched from Truro to Bodman. The Plimouth Regiment of horſe, one troop of each Regiment, Col. <hi>Hamonds,</hi> Col. <hi>For<g ref="char:EOLhyphen"/>teſcues,</hi> and Col. <hi>Ingolſbyes</hi> Regiments are to block up Pendennis and the Mount, and ſe<g ref="char:EOLhyphen"/>cure the County. We ſhall now march apace Eaſtward, Exeter will be (I doubt not) ſoon in our poſſeſſion. My imployments here are ſo many, that I have little time for neceſſary refreſhment. Remember mee to all our friends. I remaine</p>
+            <closer>
+               <dateline>Bodman <date>March 24. 1645.</date>
+               </dateline>
+               <signed>Your aſſured friend <hi>W. C.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159621:3"/>
+            <head>A Letter from the Scout-maſter Ge<g ref="char:EOLhyphen"/>neralls Quarters.</head>
+            <opener>
+               <salute>SIR</salute>
+            </opener>
+            <p>COlonell <hi>Hammon</hi> goes on in the blocking up of Pendennis Caſtle by Land, his number we finde by view of the place to be ſufficient both Horſe and Foot, they within being out of all hopes of reliefe; fortifications are to be raiſed upon the Iſtmus, which is ſo narrow that we doubt not but to faciliate it. All their hopes are within, that they thinke when they have ſeene the utmoſt of what the King wil do, that then they wil accordingly deport themſelves; and theſe Punctileos of honour ſway with ſome there, though others as deſperate in their reſolutions as in their fortunes, will try the utmoſt of Malignant oppoſition; but if there be but as great care taken by Sea as we ſhall by Land, they may ſoon be weary of their deſigne. Michaels Mount, that is thought on alſo by the care of the Corniſh Gentle<g ref="char:EOLhyphen"/>men, there are Forces to be drawn out of the ſeverall diviſions of the Weſterne parts of the County to keep
+<pb n="3" facs="tcp:159621:3"/>the Enemy in, or force them out and take in the Garriſon: And leaſt that we ſhould leave too much upon the Country before they are put into a ſetled poſture (for we heare that ſome of the Enemies Souldiers are killing in the furtheſt parts of Cornwell therefore) two hundred Horſe are drawne out, and ſent to ſcoure all the Country of them, that ſo none of them may remaine to breed ill bloud when we are advanced. And beſides, there are ſome that have de<g ref="char:EOLhyphen"/>bauched away better Horſes then ſome that were offered, on purpoſe to deceive us, but thoſe two hun<g ref="char:EOLhyphen"/>dred Horſe are to make enquiry after them alſo. We are now at Bodman, on our way to our old Quarters; we hope they in Exeter, and alſo in Barnſtable (for we ſhall divide to both places) will neither of them now much delay us, but if they doe we ſhall not dally with them, but ſhall (God willing) ſuddenly give an account of ſomething. There is nothing come to us of the Princes going from the Iſle of Silly, where (for any thing we can learne) he ſtill is; we thought <hi>Hopton</hi> and <hi>Wentworth</hi> would have paſſed immediatly into France, but it ſeemes they firſt viſite Silly. The Generall hath taken great care to cleanſe theſe parts of the Enemy from reſting in knots together when we are gone, and the Militia is ſo ſetled, that I pre<g ref="char:EOLhyphen"/>ſume (through Gods bleſſing) they will be a free Country. I am</p>
+            <closer>
+               <dateline>Bodman, <date>March the 24. 1645.</date>
+               </dateline>
+               <signed>Your humble Servant. N. T.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159621:4"/>
+            <head>The Copy of a Letter to an Officer of note.</head>
+            <opener>
+               <salute>Honoured Sir:</salute>
+            </opener>
+            <p>THe Generall with the body of the Army is now come to Bodman, having left Colonell <hi>Hammon</hi> with a ſufficient ſtrength of Horſe and Foot to block up Pendennis by Land, which will be eaſily done by raiſing Fortifications upon the Iſtmus, which is very narrow; The Mount is to be kept in by the Country of the Weſt parts of Cornwall who have undertaken it. We have ſent two hundred Horſe toward the Lands end to fetch up what ſtraglers of the Enemy ſtayes behind, and to finde out what Horſes they have hid, or otherwiſe diſpoſed of in thoſe parts. To morrow the Generall intends to advance toward Barnſtable, and thence to Exeter, which we hope will neither of them hold out againſt us; &amp; God being pleaſed to proſper our deſignes, we hope to be (ſoo<g ref="char:EOLhyphen"/>ner then I will ſpeake) in the midland parts. The Prince is ſaid to be ſtill in the Iſle of Silly, whether <hi>Hopton</hi> and <hi>Wentworth</hi> are gone to him; thoſe of the Cavaliers that are not yet gone are to be conveyed by Parties of Horſe to Chard, there to be diſperſed and ſcattered, which is that we moſt deſire. Sir, you'l pleaſe to excuſe my abruptneſſe who am in haſte, yet adviſedly remaine</p>
+            <closer>
+               <signed>Your obliged and affectionate ſervant. <hi>J. G,</hi>
+               </signed>
+               <dateline>Bodman, <date>March 24. 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="lists_of_army_officers">
+            <pb n="4" facs="tcp:159621:4"/>
+            <head>A Liſt of the names of the Lords and Chiefe Officers of the Princes Army in the Weſt, and how they are ſeverally diſperſed.</head>
+            <p>
+               <hi>Prince</hi> Charles <hi>in the Iſle of Silly, and with him there are theſe;</hi>
+               <list>
+                  <item>LOrd Hopton, Gene<g ref="char:EOLhyphen"/>rall</item>
+                  <item>Earl of Berkſhire</item>
+                  <item>Lord Wentworth</item>
+                  <item>Lord Capell</item>
+                  <item>Sir Edward Hide, Gover<g ref="char:EOLhyphen"/>nour of Silly Iſle</item>
+                  <item>100. Officers and Gentle<g ref="char:EOLhyphen"/>men.</item>
+               </list>
+            </p>
+            <p>Goring is ſtill in France, and thither are gone theſe;
+<list>
+                  <item>LOrd Culpepper</item>
+                  <item>Sir Rich. Greenvill</item>
+                  <item>Sir Nicholas Chriſpe</item>
+                  <item>Major Gen. Taplane</item>
+                  <item>Fifty Officers and Gentle<g ref="char:EOLhyphen"/>men.</item>
+               </list>
+            </p>
+            <p>The King is ſtill at Oxford, and theſe are gone to him;
+<list>
+                  <item>LOrd Miller</item>
+                  <item>Major Gen. Webb 40. Officers of Note</item>
+               </list>
+            </p>
+            <p>Col. Arundell is in Penden<g ref="char:EOLhyphen"/>nis, and with him are
+<list>
+                  <item>SIr Henry Killegrew</item>
+                  <item>Sir John Digby</item>
+                  <item>Sir Abraham Shipman</item>
+                  <item>Col. Slaughter</item>
+                  <item>Many more.</item>
+               </list>
+            </p>
+            <p>Other Officers have Paſſes to go home.
+<list>
+                  <item>MAj. Gen. Wagſtaffe</item>
+                  <item>Lord Mohun</item>
+                  <pb n="6" facs="tcp:159621:5"/>
+                  <item> Sir Richard Prideaux</item>
+                  <item>Sir Francis Mackworth</item>
+                  <item>Sir James Smith</item>
+                  <item>Col. Charles Goring</item>
+                  <item>Col. Macus Trove</item>
+                  <item>Sir John Greenvill</item>
+                  <item>Colonell Berd</item>
+                  <item>Col. Jordan Bovell</item>
+                  <item>
+                     <hi>Col.</hi> Thomas Pantor</item>
+                  <item>
+                     <hi>Col.</hi> Edgcome</item>
+                  <item>Sir John Trelawny</item>
+                  <item>Sir Nicholas Lowre</item>
+                  <item>
+                     <hi>Col.</hi> Trelawny</item>
+                  <item>
+                     <hi>Col.</hi> Stukley</item>
+                  <item>
+                     <hi>Col.</hi> Hunningham</item>
+                  <item>
+                     <hi>Col.</hi> Slingsby</item>
+                  <item>
+                     <hi>Col.</hi> Hopert</item>
+                  <item>
+                     <hi>Col.</hi> Gettings</item>
+                  <item>
+                     <hi>Col.</hi> Champernoon</item>
+                  <item>
+                     <hi>Col.</hi> Collens</item>
+                  <item>
+                     <hi>Col.</hi> Weſt.</item>
+                  <item>
+                     <hi>Col.</hi> Stielly</item>
+               </list> And many others.</p>
+            <p>
+               <list>
+                  <head>Disbanded in all nine Brigades.</head>
+                  <item>1 <hi>Col.</hi> Taplanes</item>
+                  <item>2 Lord Wentworths</item>
+                  <item>3 Sir James Smiths</item>
+                  <item>4 Lord Clevelands</item>
+                  <item>5 Major Gen. Webbs</item>
+                  <item>6 <hi>Col.</hi> Bovels</item>
+                  <item>7 The Lord Gorings</item>
+                  <item>8 Prince Charles Life-Guard</item>
+                  <item>9 Greenvils Reforma<g ref="char:EOLhyphen"/>does</item>
+                  <item>30 Regiments in all</item>
+                  <item>30 Major-Generals and Colonels</item>
+                  <item>80 Lieutenant Colonells and Majors</item>
+                  <item>Hundreds of Captains and other Officers</item>
+                  <item>And many Knights and Gentlemen</item>
+                  <item>1000. good Horſes</item>
+                  <item>500. Horſes of a worſer ſort</item>
+                  <item>1000. exchanged Horſes</item>
+                  <item>1000. led Horſes, and o<g ref="char:EOLhyphen"/>thers worth little.</item>
+               </list>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
